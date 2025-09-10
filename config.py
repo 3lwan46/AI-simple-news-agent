@@ -1,7 +1,7 @@
 # Email settings
-EMAIL_SENDER = "ue email@example"
-EMAIL_PASSWORD = "x"  # Use App Password if Gmail 2FA is on
-EMAIL_RECEIVER = "email@example"
+EMAIL_SENDER = "email@example.com"
+EMAIL_PASSWORD = " "  # Use App Password if Gmail 2FA is on
+EMAIL_RECEIVER = "email@example.com"
 
 # RSS feeds to fetch
 RSS_FEEDS = [
@@ -12,4 +12,3 @@ RSS_FEEDS = [
 
 # Number of top articles per feed
 TOP_N = 5
-
