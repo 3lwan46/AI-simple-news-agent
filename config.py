@@ -1,7 +1,7 @@
 # Email settings
-EMAIL_SENDER = "5053zeeez@gmail.com"
-EMAIL_PASSWORD = "zlmi coud nvma didx"  # Use App Password if Gmail 2FA is on
-EMAIL_RECEIVER = "ali.aa.alsayadi@gmail.com"
+EMAIL_SENDER = "ue email@example"
+EMAIL_PASSWORD = "x"  # Use App Password if Gmail 2FA is on
+EMAIL_RECEIVER = "email@example"
 
 # RSS feeds to fetch
 RSS_FEEDS = [
@@ -12,3 +12,4 @@ RSS_FEEDS = [
 
 # Number of top articles per feed
 TOP_N = 5
+
