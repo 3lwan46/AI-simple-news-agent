@@ -16,13 +16,14 @@ _"Instead of manually reading newspapers or tech sites every day, why not let an
 ---
 
 ## 📂 Project Structure
+```
 news_agent/
 │
 ├─ config.py # Email & RSS feed settings
 ├─ fetch_news.py # Fetches top news from RSS feeds
 ├─ send_email.py # Sends email with the news digest
 └─ main.py # Orchestrates the agent
-
+```
 
 
 ---
